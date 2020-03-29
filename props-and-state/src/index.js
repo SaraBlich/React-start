@@ -43,7 +43,7 @@ class Library extends React.Component{
 
   return(
     <div>
-      {this.state.hiring? <Hiring /> : <NotHiring />}
+      {this.state.hiring? <Hiring /> : <notHiring />}
       <h1>The library is {this.state.open ? 'open' : 'closed'}</h1>
       <button onClick = {this.toggleOpenClosed}>Change</button>
      {books.map(
