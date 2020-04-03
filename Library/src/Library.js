@@ -81,4 +81,4 @@ export class Library extends React.Component{
     freeBookmark: PropTypes.bool
   }
   
-  export default Library
+  export default Library;
