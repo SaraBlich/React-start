@@ -6,3 +6,4 @@ This repository will consist of really easy examples of React apps and will end 
 3) <b>Library: </b>Library app (quite ugly one, but good for practise), that uses basic features of React and api (like commercials). Also all components from react are stored in different files, so have that in mind in case that you would like to see how it works.
 4) <b>Interface - Pet Clinic:</b> thanks to an incredible course on linkedin learning 'React.js: Building an interface' by Ray Villalobos I was able to understand how creating more complex app in React works. You are welcome to check out how it worked!
 5) <b>Soon - Pac-man</b>
+6) <b>Bigger project pending. Arc-Dev. Probably there will be some break in expanding this repository. (Pac-man will appear though.)
